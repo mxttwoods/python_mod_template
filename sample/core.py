@@ -1,4 +1,7 @@
-# -*- coding: utf-8 -*-
+"""
+The core module is the main module of the project.
+"""
+
 from . import helpers
 
 
